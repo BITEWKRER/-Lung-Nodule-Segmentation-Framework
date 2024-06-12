@@ -11,7 +11,7 @@ The evaluation metric for this experiment was used from [(TorchMetrics)](https:/
 Note: Note that the segmentation models used in this project are all from github
 
 
-## If you find the framework useful, please cite the document 
+## If you find this framework is useful, please cite the paper  
 ```
 @article{ZHI2023107321,
 title = {Deep neural network pulmonary nodule segmentation methods for CT images: Literature review and experimental comparisons},
