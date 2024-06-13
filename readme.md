@@ -6,15 +6,15 @@ The evaluation metric for this experiment was used from [(TorchMetrics)](https:/
   
 3. use `trainLIDC or trainLuna` can train different models
   
-4. use `evaluateLIDC` or `evaluateLuna` can evaluate different models
+4. use `evaluateLIDC` or `evaluateLuna` can evaluate different models 
 
 Note: Note that the segmentation models used in this project are all from github
 
 
-## If you find this framework is useful, please cite the paper  
+## Citation  
 ```
 @article{ZHI2023107321,
-title = {Deep neural network pulmonary nodule segmentation methods for CT images: Literature review and experimental comparisons},
+title = {Deep neural network pulmonary nodule segmentation methods for CT images: Literature review and experimental comparisons}, 
 journal = {Computers in Biology and Medicine},
 volume = {164},
 pages = {107321},
